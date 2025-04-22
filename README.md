@@ -13,7 +13,7 @@
 ## 系统要求
 
 - Python 3.7+
-- Node.js 14+
+- Node.js 18+
 - Docker
 
 ## 安装部署
